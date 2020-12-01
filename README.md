@@ -1,5 +1,5 @@
 # Project API-Budget
-## I used Node.js, MongoDB and Insomnia
+## Made with Node.js, MongoDB and Insomnia
 
 Sequencia para criar o projeto
 
