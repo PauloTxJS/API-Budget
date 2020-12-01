@@ -3,7 +3,7 @@ const mongoose = require('mongoose');
 const cors = require('cors');
 const nodemailer = require('nodemailer');
 
-require('./models/Orcamento');
+require('./models/Orcamento'); //importando Orçamento
 const Orcamento = mongoose.model('Orcamento');
 
 const app = express();
