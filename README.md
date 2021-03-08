@@ -1,4 +1,4 @@
-# API Budget
+# API-Budget
 
 ## Technologies used
 * NodeJS
